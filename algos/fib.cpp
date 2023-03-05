@@ -50,11 +50,13 @@ matrix matpow(matrix base, long long n) {
     return ans;
 }
 
-long long fib(int n) { 
+long long fibd(int n) { 
     matrix base {{ 
         {1,1},
         {1,0}
     }};
     return matpow(base, n).mat[0][1];
 }
+
+
 
