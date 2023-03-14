@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 int bs(vector<int> v, int k) { 
     int l = - 1;
     int r = v.size() - 1;
@@ -18,7 +17,6 @@ int bs(vector<int> v, int k) {
     return k;
 }
 
-
-
+//this random comment
 
 
