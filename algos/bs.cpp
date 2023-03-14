@@ -16,9 +16,3 @@ int bs(vector<int> v, int k) {
     }
     return k;
 }
-
-//m
-
-
-
-//dfs/sdf/fdsdfs/dsf
